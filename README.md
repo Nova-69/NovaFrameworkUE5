@@ -3,6 +3,9 @@ Sonic framework made in Unreal Engine 5, by yours truly. Due to me not really ha
 desktop for a while, and given to close friends that could put it to use. Seeing that they have actually been able to do some cool things with this framework, I thought
 I might as well release it to the public. Hopefully it is of some use to you all! I might work on this on some later point but I wouldn't really count on it.
 
+<h1>Preview</h1>
+Here's a fairly outdated and poorly recorded video for your enjoyment https://www.youtube.com/watch?v=IMjJtYZnIzY
+
 <h1>Setup</h1>
 It's pretty simple, but does require a few more steps than just downloading from the <b>releases tab</b>. This was made before UE5 was fully released, but it should still 
 function perfectly fine on newer versions. Due to Ninja Character Movement not having a UE5 release at the time, I recompiled it myself, and it works (despite a lil 
