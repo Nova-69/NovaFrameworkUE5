@@ -9,7 +9,7 @@ Here's a fairly outdated and poorly recorded video for your enjoyment https://ww
 <br>
 Main features are momentum-based physics, good sense of speed due to dynamic FOV, your standard Sonic moveset (dropdash, boost, spindash, loop functionality, and partially finished rails), as well as rings that magnetize towards you when boosting and a fairly dumb spring. No enemies or homing attack unfortunatly. On the graphical
 side of things, this framework features a proper Master material setup for just about anything you'd plan to make in a Sonic fangame, high fidelity materials for Sonic
-(including the moving eye-shine dot, courtesy of Dynu) and a good setup to get you started for any other character you'd like to add. Lost World style particles and animations are also used for the footsteps, jumpball, running particle, and main Sonic pawn. These particles and animations combined with the dynamic FOV allow you to get a pretty unique and good-feeling play style.
+(including the moving eye-shine dot, courtesy of Dynu) and a good setup to get you started for any other character you'd like to add. Lost World style particles and animations are also used for the footsteps, jumpball, running particle, and main Sonic pawn. These particles and animations combined with the dynamic FOV allow you to get a pretty unique and good-feeling play style. Also, press ALT for freecam mode
 
 <h1>Setup</h1>
 It's pretty simple, but does require a few more steps than just downloading from the <b>releases tab</b>. This was made before UE5 was fully released, but it should still 
